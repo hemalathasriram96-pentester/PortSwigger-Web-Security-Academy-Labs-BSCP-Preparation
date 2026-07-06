@@ -21,9 +21,8 @@ I am actively practicing advanced web application penetration testing methodolog
 Beyond the completed lab metrics above, I possess a strong fundamental understanding and tactical remediation knowledge of the following high-level vulnerability vectors:
 *   **Advanced Exploitation Flow:** Proficient in mapping attack surfaces, analyzing execution logic, and setting up automated testing payloads.
 *   **Vulnerability Remediation:** Well-versed in suggesting code-level mitigations, implementing robust input validation, and establishing secure architectural baselines to prevent web attacks.
-*
 
-*    ##  Current Goal
+##  Current Goal
 -  Practical Attack Scenarios Mastered: **60 Labs**
 -  Certification Targ
  validation, and establishing secure architectural baselines to prevent web attacks.
